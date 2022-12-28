@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/WebLab7/static/css/main.67f55ad4.css",
+    "main.js": "/WebLab7/static/js/main.22655927.js",
+    "static/media/pear.webp": "/WebLab7/static/media/pear.a5b20bba269a8ef901c1.webp",
+    "static/media/apple-fruit.jpg": "/WebLab7/static/media/apple-fruit.f6848f5de55ea9a13298.jpg",
+    "static/media/gtape.webp": "/WebLab7/static/media/gtape.9b705bfe034d5feffb65.webp",
+    "static/media/orange.jpg": "/WebLab7/static/media/orange.e07d070266369f78b527.jpg",
+    "static/media/peach.png": "/WebLab7/static/media/peach.1c571407406da626d999.png",
+    "static/media/pineapple.webp": "/WebLab7/static/media/pineapple.0ec631f0da943aadc4c6.webp",
+    "index.html": "/WebLab7/index.html",
+    "main.67f55ad4.css.map": "/WebLab7/static/css/main.67f55ad4.css.map",
+    "main.22655927.js.map": "/WebLab7/static/js/main.22655927.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67f55ad4.css",
+    "static/js/main.22655927.js"
+  ]
+}
