@@ -1,0 +1,18 @@
+.cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    margin-top: 20px;
+}
+
+.first_row{
+    display: flex;
+    flex-direction: row;
+}
+
+.second_row{
+    display: flex;
+    flex-direction: row;
+}
